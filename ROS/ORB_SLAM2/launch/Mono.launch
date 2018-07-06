@@ -1,0 +1,6 @@
+<launch>
+  <node name="mono" pkg="ORB_SLAM2" type="Mono"  
+    args="/home/shell/catkin_ws/src/ORB_SLAM2_Enhanced-master/map_setting/Setting.yaml" output="screen" >
+  </node>
+</launch>
+ 

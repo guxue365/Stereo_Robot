@@ -1,0 +1,15 @@
+%YAML:1.0
+Orb_Vocabulary: /home/shell/catkin_ws/src/ORB_SLAM2_Enhanced-master/Vocabulary/ORBvoc.bin
+
+# the Camera Setting File Path. 
+
+Cam_Setting: /home/shell/catkin_ws/src/ORB_SLAM2_Enhanced-master/map_setting/Asus.yaml
+
+# Whether Run the ORB-SLAM2 System Using the Exsiting Map File (0 for no , 1 for yes).
+
+is_ReuseMap: 0
+
+# the Exsiting Map File Path (if the above item is 0, this is unnessesary)
+is_showgui: 1
+
+tree_resolution: 0.05
